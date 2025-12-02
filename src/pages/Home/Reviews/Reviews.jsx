@@ -7,12 +7,8 @@ const Reviews = ({ reviewsPromise }) => {
     const reviews = use(reviewsPromise);
     console.log(reviews);
     return (
-        <div className='my-6'>
-            <div className='text-center mb-24'>
-                <h3 className="text-3xl text-center font-bold my-8">Review</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non soluta, perspiciatis esse eius praesentium similique asperiores quasi veniam repellat architecto repellendus, deserunt accusantium, debitis ipsa. Expedita possimus facilis voluptas deserunt.</p>
-            </div>
-
+        <div>
+            
             <Swiper
                 loop={true}
                 effect={'coverflow'}

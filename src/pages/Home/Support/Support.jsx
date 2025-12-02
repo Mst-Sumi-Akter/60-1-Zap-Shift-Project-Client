@@ -3,6 +3,7 @@ import trackingPng from '../../../assets/live-tracking.png'
 import deliveryPng from '../../../assets/safe-delivery.png'
 import location from '../../../assets/location-merchant.png'
 import merchant from '../../../assets/be-a-merchant-bg.png'
+import customer from '../../../assets/customer-top.png'
 
 export default function Support() {
   return (
@@ -97,6 +98,11 @@ export default function Support() {
               <img src={location} alt="Decor" className="hidden sm:block w-full h-full " />
             </div>
           </div>
+        </div>
+        <div className='text-center max-w-3xl mt-20 mx-auto'>
+          <img src={customer} alt="" className='mx-auto' />
+          <h3 className="text-3xl text-center font-bold my-6">What our customers are sayings</h3>
+          <p className='text-xl'>Enhance posture, mobility, and well-being effortlessly with Posture Pro. Achieve proper alignment, reduce pain, and strengthen your body with ease!</p>
         </div>
 
         
