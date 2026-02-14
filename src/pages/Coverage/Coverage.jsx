@@ -40,7 +40,7 @@ const Coverage = () => {
                     />
                     <button
                         type="submit"
-                        className="bg-primary text-white px-4 py-3 rounded-r-full hover:bg-green-600 transition-colors"
+                        className="bg-primary text-black px-4 py-3 rounded-r-full hover:bg-green-600 transition-colors"
                     >
                         Search
                     </button>

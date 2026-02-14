@@ -26,7 +26,7 @@ const Banner = () => {
                             Track Your Parcel
                         </button>
 
-                        <FaArrowCircleUp className="text-2xl text-black" />
+                        <FaArrowCircleUp className="text-2xl text-black rotate-45" />
 
                         <button className='p-2 bg-white shadow rounded-xl text-secondary'>
                             Be A Rider
@@ -51,7 +51,7 @@ const Banner = () => {
                             Track Your Parcel
                         </button>
 
-                        <FaArrowCircleUp className="text-2xl text-black" />
+                        <FaArrowCircleUp className="text-2xl text-black rotate-45" />
 
                         <button className='p-2 bg-white shadow rounded-xl text-secondary'>
                             Be A Rider
@@ -76,7 +76,7 @@ const Banner = () => {
                             Track Your Parcel
                         </button>
 
-                        <FaArrowCircleUp className="text-2xl text-black" />
+                        <FaArrowCircleUp className="text-2xl text-black rotate-45" />
 
                         <button className='p-2 bg-white shadow rounded-xl text-secondary'>
                             Be A Rider
