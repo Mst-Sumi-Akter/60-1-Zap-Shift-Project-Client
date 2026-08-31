@@ -1,2 +1,1 @@
-Project Name: Zap-Shift 
-A smart delivery system 
+Project Name: Zap-Shift. 
